@@ -24,7 +24,7 @@
     background-color: #26418f;
     padding: 2%;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .title-section {
@@ -49,6 +49,6 @@
 
 .result h3 {
     text-indent: 1in;
-    font-size: 1in;
+    font-size: 5vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
